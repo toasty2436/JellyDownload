@@ -41,13 +41,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Made By Toasty <3</string>
+	<string>{{description}}</string>
 	<key>PayloadDisplayName</key>
-	<string>Jelly Installer</string>
+	<string>{{payloadname}}</string>
 	<key>PayloadIdentifier</key>
 	<string>{{identifier}}</string>
 	<key>PayloadOrganization</key>
-	<string>Jelly Movies Inc.</string>
+	<string>{{organization}}</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/><!--never set to true with random/unknown uuids/identifiers-->
 	<key>PayloadType</key>
