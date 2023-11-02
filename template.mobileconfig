@@ -41,7 +41,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>{{description}}</string>
+	<string>Jelly</string>
 	<key>PayloadDisplayName</key>
 	<string>{{payloadname}}</string>
 	<key>PayloadIdentifier</key>
