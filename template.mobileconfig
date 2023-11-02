@@ -27,7 +27,7 @@
 			<key>PayloadIdentifier</key>
 			<string>>{{identifier}}</string>
 			<key>PayloadOrganization</key>
-			<string>{{organization}}</string>
+			<string>Jelly Movies Inc.</string>
 			<key>PayloadType</key>
 	<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -43,11 +43,11 @@
 	<key>PayloadDescription</key>
 	<string>Jelly</string>
 	<key>PayloadDisplayName</key>
-	<string>{{payloadname}}</string>
+	<string>Jelly</string>
 	<key>PayloadIdentifier</key>
 	<string>{{identifier}}</string>
 	<key>PayloadOrganization</key>
-	<string>{{organization}}</string>
+	<string>Jelly Movies Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/><!--never set to true with random/unknown uuids/identifiers-->
 	<key>PayloadType</key>
