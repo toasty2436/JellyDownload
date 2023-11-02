@@ -37,17 +37,17 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>{{url}}</string>
+			<string>https://toasty2436.github.io/Jelly/#/search/movie</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>{{description}}</string>
+	<string>Made By Toasty <3</string>
 	<key>PayloadDisplayName</key>
-	<string>{{payloadname}}</string>
+	<string>Jelly Installer</string>
 	<key>PayloadIdentifier</key>
 	<string>{{identifier}}</string>
 	<key>PayloadOrganization</key>
-	<string>{{organization}}</string>
+	<string>Jelly Movies Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/><!--never set to true with random/unknown uuids/identifiers-->
 	<key>PayloadType</key>
