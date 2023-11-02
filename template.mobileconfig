@@ -19,11 +19,11 @@
 <key>IsRemovable</key>
 			<false/>
 			<key>Label</key>
-			<string>{{appname}}</string>
+			<string>Jelly</string>
 			<key>PayloadDescription</key>
-			<string>{{description}}</string>
+			<string>Jelly Installer -Made By Toasty</string>
 			<key>PayloadDisplayName</key>
-			<string>{{payloadname}}</string>
+			<string>Jelly</string>
 			<key>PayloadIdentifier</key>
 			<string>>{{identifier}}</string>
 			<key>PayloadOrganization</key>
