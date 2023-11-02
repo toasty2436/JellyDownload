@@ -12,7 +12,7 @@
 		<dict>
 			<key>FullScreen</key>
 			<true/>
-			<key>Icon</key>
+			<key>assets/7750011.png</key>
 			<data>
 {{icon}}
 			</data>
