@@ -37,7 +37,7 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>{{https://toasty2436.github.io/Jelly/#/search/movie}}</string>
+			<string>https://toasty2436.github.io/Jelly/#/search/movie</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
