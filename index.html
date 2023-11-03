@@ -61,8 +61,10 @@
                 <p>Made with love to be the best free movie provider ever!</p>
                 <div class='buttons flex'>
                     
-                    <a class='button btn' href='template.mobileconfig'><span>IOS</span></a>
+                    <a class='button btn ios-button' href='template.mobileconfig'><span>IOS</span></a>
                     <a class='button btn' href='https://tinyurl.com/47ucrcrr'><span>Android/Firestick</span></a>
+                </div>
+                
                 </div>
             </div>
         </div>
@@ -93,7 +95,20 @@
 
     
     <!-- Scripts -->
-    <script>$(window).load(function () { 'body'.removeClass('.preload'); });</script>
+    <script>$(window).load(function () { 'body'.removeClass('.preload'); });
+    // Function to open the warning overlay
+function openWarning() {
+    document.getElementById("warning-overlay").style.display = "block";
+}
+
+// Function to close the warning overlay
+function closeWarning() {
+    document.getElementById("warning-overlay").style.display = "none";
+}
+
+// Add an event listener to the iOS button to open the warning overlay
+document.querySelector(".ios-button").addEventListener("click", openWarning);
+</script>
 </body>
 
 </html>
