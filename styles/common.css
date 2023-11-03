@@ -4,11 +4,12 @@
 /* Body */
 :root {
     --primary-color: #292a2e;
-	--secondary-color: #202024;
+	--secondary-color: #161616;
 	--grey-text: #c9ccd6;
     --error-color: #fc4747;
     --purple: #663399;
     --light-purple: #8f45d9;
+    --blue: rgb(34, 88, 189);
 }
 
 * {
@@ -63,9 +64,10 @@ body {
     color: #ffffff;
     height: 70px;
     font-weight: 400;
-    background-color: #141414; /* Use the hexadecimal color code for light blue */
-    border-bottom: var(--light-blue) 5px solid;
+    background-color: var(--secondary-color);
+    border-bottom: var(--blue) 3px solid;
 }
+
 
 
 .navbar ul {
