@@ -21,7 +21,7 @@
 			<key>Label</key>
 			<string>Jelly</string>
 			<key>PayloadDescription</key>
-			<string>Jelly Installer -Made By Toasty</string>
+			<string>The Best Free Movie App Ever!</string>
 			<key>PayloadDisplayName</key>
 			<string>Jelly</string>
 			<key>PayloadIdentifier</key>
@@ -41,7 +41,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Jelly</string>
+	<string>The Best Free Movie App Ever!</string>
 	<key>PayloadDisplayName</key>
 	<string>Jelly</string>
 	<key>PayloadIdentifier</key>
