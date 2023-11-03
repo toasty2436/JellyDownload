@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>{{message}}</string>
+		<string>Made By Toasty. Enjoy :]</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -14,7 +14,7 @@
 			<true/>
 			<key>assets/7750011.png</key>
 			<data>
-{{icon}}
+assets/7750011.png
 			</data>
 <key>IsRemovable</key>
 			<false/>
@@ -25,7 +25,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Jelly</string>
 			<key>PayloadIdentifier</key>
-			<string>>{{identifier}}</string>
+			<string>{{identifier}}</string>
 			<key>PayloadOrganization</key>
 			<string>Jelly Movies Inc.</string>
 			<key>PayloadType</key>
