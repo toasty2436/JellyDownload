@@ -1,3 +1,14 @@
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.image-right {
+    margin-left: 10px; /* Adjust the margin as needed to position the image */
+    max-width: 200px; /* Adjust the max-width as needed */
+    /* Additional styling for the image, such as max-height, border, etc. */
+}
+
 a {
 	color: var(--purple);
 }
